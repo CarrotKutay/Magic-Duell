@@ -25,8 +25,7 @@ Higher spell tiers are unlocked after casting a certain amount up-to-now availab
 #### User Inteface / User Controls
 The Game super spell heroes is strictly 2D, which might be a expression of the plattform it was/is developed for (mobile). Controls are stricly tap-oriented.
 
-# Game idea for Magic-Duell
-what features I could have/want:
+# Game idea for Magic-Duell 
 
 #### Competitive real time battle 
 A battle between minimum 2 players, with the potential of wielding different spells. Spells can build by players on the fly and dieffernt build path result in the spells taking effect differently (maybe with different effects or/and with stronger and lesser efficiency depending on said build path)
