@@ -33,6 +33,6 @@ A battle between minimum 2 players, with the potential of wielding different spe
 Battle arena should be rather stoic itself, focus soley on the spell building for each player. Spell building path should be difficult and challenging, but the bar into spell building should not be to difficult, to make it easier for new players to adapt.
 
 First arena draft could look like the follwong:
-![arena draft](/first_arena_draft.png)
+![arena draft](/documentation/first_arena_draft.png)
 
 Suggestion to use a 3D-Plattfrom inside the game for the battle. This is however not needed, as the players themselves will not move as much, main focus should be thrown into spell casting + building. Movement of the player themselves could be an option, but not needed for casting the spells, avoiding spells casted by other players through movement could be a feature, but would not make much sense in a mobile rpg when looking at user controls as it might overload the the ones available and make for a bad user experience.
