@@ -25,8 +25,7 @@ Higher spell tiers are unlocked after casting a certain amount up-to-now availab
 #### User Inteface / User Controls
 The Game super spell heroes is strictly 2D, which might be a expression of the plattform it was/is developed for (mobile). Controls are stricly tap-oriented.
 
-# Game idea for Magic-Duell
-what features I could have/want:
+# Game idea for Magic-Duell 
 
 #### Competitive real time battle 
 A battle between minimum 2 players, with the potential of wielding different spells. Spells can build by players on the fly and dieffernt build path result in the spells taking effect differently (maybe with different effects or/and with stronger and lesser efficiency depending on said build path)
@@ -36,4 +35,4 @@ Battle arena should be rather stoic itself, focus soley on the spell building fo
 First arena draft could look like the follwong:
 ![arena draft](/first_arena_draft.png)
 
-Suggestion to use a 3D-Plattfrom inside the game for the battle. This is however not needed, as the players themselves will not move as much, main focus should be thrown into spell casting + building. Movement of the player themselves could be an option, but not needed for casting the spells, avoiding spells casted by other players through movement could be a feature, but would not make a much sense in a mobile rpg when looking at user controls.
+Suggestion to use a 3D-Plattfrom inside the game for the battle. This is however not needed, as the players themselves will not move as much, main focus should be thrown into spell casting + building. Movement of the player themselves could be an option, but not needed for casting the spells, avoiding spells casted by other players through movement could be a feature, but would not make much sense in a mobile rpg when looking at user controls as it might overload the the ones available and make for a bad user experience.
