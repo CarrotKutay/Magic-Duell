@@ -5,7 +5,7 @@ Inspiration goes to this awsome strategic real time battle rpg called [Super-Spe
 The idea behind this game is to match element blocks as 'building blocks' together with a mathing elemental spell. 
 Depending on how many building blocks a player adds together the spell cast will be stronger.
 
-![Picture of in-game gameplay](/Super-Spell-Heroes-1.jpg)
+![Picture of in-game gameplay](/documentation/Super-Spell-Heroes-1.jpg)
 
 ### Gameplay Super Spell Heroes
 The game itself is only available for mobile plattforms. It revolves around a simple progression system from one region to the next and by unlocking new regions new heroes can be unlocked as well. Different heroes have preset elements and spells that are available to their disposal:
